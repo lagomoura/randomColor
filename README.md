@@ -1,4 +1,6 @@
 # Proyecto de practica en JavaScript
+
+## Color Flipper 
 ### Random Pick Color
 
 Proyecto construido en JavaScript Vainila.
@@ -13,6 +15,8 @@ Gustavo Lago
 --------------------------------
 
 # JavaScript practice's project
+
+## Color Flipper 
 ### Random Pick Color
 
 Project built with Vainila JS.
@@ -27,6 +31,8 @@ Gustavo Lago
 --------------------------------
 
 # Projeto de pratica em JavaScript
+
+## Color Flipper 
 ### Random Pick Color
 
 Projeto construido e, JavaScript Vainila.
