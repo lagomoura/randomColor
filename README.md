@@ -15,14 +15,15 @@ Gustavo Lago
 # JavaScript practice's project
 ### Random Pick Color
 
-Poject built with Vainila JS.
-Pick a random color clicking on buttom.
-You can choose simple color or HEX as well.
+Project built with Vainila JS.
+Pick a random color by clicking on generate buttom.
+You can choose between simple or HEX color.
 
 For any bug and/or feedback, mail me: mouralago@live.com.
 
 Take care 💚
 Gustavo Lago
+
 --------------------------------
 
 # Projeto de pratica em JavaScript
