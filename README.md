@@ -1,5 +1,5 @@
 # Proyecto de practica en JavaScript
-###Random Pick Color
+### Random Pick Color
 
 Proyecto construido en JavaScript Vainila.
 Consiste en un boton generador de colores de manera random. 
@@ -13,20 +13,20 @@ Gustavo Lago
 --------------------------------
 
 # JavaScript practice's project
-###Random Pick Color
+### Random Pick Color
 
 Poject built with Vainila JS.
 Pick a random color clicking on buttom.
 You can choose simple color or HEX as well.
 
-For any bug and/or feedback, mail me: mouralago@live.com
+For any bug and/or feedback, mail me: mouralago@live.com.
 
 Take care 💚
 Gustavo Lago
 --------------------------------
 
 # Projeto de pratica em JavaScript
-###Random Pick Color
+### Random Pick Color
 
 Projeto construido e, JavaScript Vainila.
 Consiste em um botao gerador de cores aleatorias.
